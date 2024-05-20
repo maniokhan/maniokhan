@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maniokhan
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently a Flutter Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maniokhan2002@gmail.com
 
